@@ -29,7 +29,7 @@
   - ### KOKOApp
   <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/3703b719-57d1-47cd-acef-5af37efdf48a" width="200" height="400"/>  <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/4397376b-fd7c-46d5-a588-b348947ff2de" width="200" height="400"/>
   - ### KOKOPrediction
-  - <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/cfc18741-0d1d-48b9-b100-2274bb544b3d" width="400" height="200"/>
+  <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/cfc18741-0d1d-48b9-b100-2274bb544b3d" width="400" height="200"/>
 
 
 ## Project Outcome
