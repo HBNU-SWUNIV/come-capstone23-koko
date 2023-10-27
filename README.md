@@ -28,7 +28,7 @@
 ## Conclusion
   - ### OOO
   - ### KOKOApp
-    - <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/3703b719-57d1-47cd-acef-5af37efdf48a" width="200" height="400"/>   <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/4397376b-fd7c-46d5-a588-b348947ff2de" width="200" height="400"/>
+<img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/3703b719-57d1-47cd-acef-5af37efdf48a" width="200" height="400"/>        <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/4397376b-fd7c-46d5-a588-b348947ff2de" width="200" height="400"/>
 
   
 ## Project Outcome
