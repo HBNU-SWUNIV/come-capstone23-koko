@@ -28,12 +28,10 @@
 ## Conclusion
   - ### OOO
   - ### KOKOApp
-    - <img src="![image](https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/3703b719-57d1-47cd-acef-5af37efdf48a)
-" width="200" height="400"/>
-    - <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/4397376b-fd7c-46d5-a588-b348947ff2de" width="200" height="400"/>
+    - <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/3703b719-57d1-47cd-acef-5af37efdf48a" width="200" height="400"/>   <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/4397376b-fd7c-46d5-a588-b348947ff2de" width="200" height="400"/>
 
   
 ## Project Outcome
 - ### 2023년 춘계학술대회 학부생 논문 발표 경진대회
-  - ![image](https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/0c1bc837-b375-4ca2-b3bb-fb99c58e4e34)
+  - <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/6b139038-283a-48c1-9958-6ef3b4c72f53" width="200" height="400"/>
 
