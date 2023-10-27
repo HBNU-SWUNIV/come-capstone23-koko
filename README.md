@@ -32,6 +32,6 @@
 
   
 ## Project Outcome
-- ### 2023년 춘계학술대회 학부생 논문 발표 경진대회
+  - ### 2023년 춘계학술대회 학부생 논문 발표 경진대회
 <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/6b139038-283a-48c1-9958-6ef3b4c72f53" width="200" height="300"/>
 
