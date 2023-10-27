@@ -17,8 +17,8 @@
   
 ## System Design
   - ### System Requirements
-    - ![image](https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/b9b4f0c2-bd50-4e58-b379-1bc1c92e0e37)
-    - ![image](https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/ce65c717-508d-413f-90dc-a347696c4aa3)
+    - 
+    - 
 
     
 ## Case Study
@@ -28,11 +28,12 @@
 ## Conclusion
   - ### OOO
   - ### KOKOApp
-  - ![image](https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/9b1a8b07-7ab9-4f14-b4b5-d4c154020f86)
-  - ![image](https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/1b3a1f2d-54ea-43bf-a39a-3862cb9a51c9)
+    - <img src="![image](https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/3703b719-57d1-47cd-acef-5af37efdf48a)
+" width="200" height="400"/>
+    - <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/4397376b-fd7c-46d5-a588-b348947ff2de" width="200" height="400"/>
 
   
 ## Project Outcome
 - ### 2023년 춘계학술대회 학부생 논문 발표 경진대회
-- ![image](https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/0c1bc837-b375-4ca2-b3bb-fb99c58e4e34)
+  - ![image](https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/0c1bc837-b375-4ca2-b3bb-fb99c58e4e34)
 
