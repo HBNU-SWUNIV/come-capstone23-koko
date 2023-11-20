@@ -1,5 +1,4 @@
 # 한밭대학교 컴퓨터공학과 KOKO팀
-
 **팀 구성**
 - 20181551 곽경헌 
 - 20197127 이다연
@@ -16,10 +15,10 @@
   - 정확한 위치 측정을 위해 비콘 또는 초음파센서의 추가 설치가 필요하다.
   - 기존 연구는 실시간 실내 혼잡도 측정에 머물렀지만, 우리 연구는 혼잡도 예측을 통해 서비스 운영 효율을 높이고자 하였다.
 
-  
+
 ## System Design
   - ### System Requirements
-  <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/cdbf18c3-cdbd-4c32-b1b8-4fcfd824ad0d" width="750" height="400"/>
+  <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/79b587f9-0e33-446a-858d-ce166e5850b0" width="750" height="400"/>
   <img src="https://github.com/HBNU-SWUNIV/come-capstone23-koko/assets/77190151/89fa29e6-18f5-4719-8bc6-bd56e43838b7" width="750" height="400"/>
 
     
